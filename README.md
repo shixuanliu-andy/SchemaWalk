@@ -1,4 +1,4 @@
-# SchemaWalk
+# SchemaWalk (Inductive meta-path learning for schema-complex heterogeneous information networks)
 
 This repository contains a PyTorch implementation of SchemaWalk, as described in the paper:
 
