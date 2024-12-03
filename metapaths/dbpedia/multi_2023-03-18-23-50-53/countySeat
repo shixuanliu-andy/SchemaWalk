@@ -1,0 +1,36 @@
+largestCity__administrative_region__town
+0.4961832061068702
+0.0491307634164777
+isPartOf_inv__administrative_region__city	isPartOf__city__city	isPartOf_inv__city__city
+0.07142857142857142
+0.0007558578987150416
+isPartOf_inv__administrative_region__city
+0.19722394862233272
+0.7195767195767195
+largestCity__administrative_region__city	rdf-schema#seeAlso_inv__city__city
+0.34285714285714286
+0.009070294784580499
+largestCity__administrative_region__city	rdf-schema#seeAlso__city__city
+0.5
+0.009070294784580499
+isPartOf_inv__administrative_region__city	rdf-schema#seeAlso_inv__city__city
+0.12244897959183673
+0.009070294784580499
+isPartOf_inv__administrative_region__city	rdf-schema#seeAlso__city__city
+0.14285714285714285
+0.009070294784580499
+part_inv__administrative_region__city
+0.2
+0.0007558578987150416
+rdf-schema#seeAlso__administrative_region__city
+0.25
+0.0022675736961451248
+region_inv__administrative_region__city
+0.5
+0.005291005291005291
+country_inv__administrative_region__city
+1.0
+0.0007558578987150416
+largestCity__administrative_region__city
+0.765639589169001
+0.6198034769463341

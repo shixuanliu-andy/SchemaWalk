@@ -1,0 +1,11 @@
+musicalBand
+musicalArtist
+subsequentWork
+nationality
+spouse
+countySeat
+stateOfOrigin
+distributingCompany
+distributingLabel
+parent
+trainer

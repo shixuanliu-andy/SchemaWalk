@@ -1,0 +1,264 @@
+nationality__musical_artist__country
+0.027777777777777776
+0.0011337868480725624
+country__musical_artist__country
+0.012048192771084338
+0.0011337868480725624
+residence__person__country	rdf-schema#seeAlso_inv__country__country
+0.10526315789473684
+0.009070294784580499
+recordLabel_inv__person__musical_artist	birthPlace__musical_artist__country
+0.5
+0.0011337868480725624
+hometown__person__country	rdf-schema#seeAlso_inv__country__country
+0.17647058823529413
+0.003401360544217687
+knownFor__person__country	rdf-schema#seeAlso_inv__country__country
+0.3333333333333333
+0.0011337868480725624
+citizenship__person__country
+0.24786324786324787
+0.032879818594104306
+citizenship__person__country	rdf-schema#seeAlso_inv__country__country
+0.06451612903225806
+0.0022675736961451248
+nationality__person__country	rdf-schema#seeAlso_inv__country__country
+0.6754966887417219
+0.11564625850340136
+deathPlace__person__country	rdf-schema#seeAlso_inv__country__country
+0.05392156862745098
+0.024943310657596373
+hometown__person__country
+0.20930232558139536
+0.01020408163265306
+knownFor__person__country
+0.2
+0.0011337868480725624
+restingPlace__person__country	rdf-schema#seeAlso_inv__country__country
+0.08
+0.0022675736961451248
+nationality__person__country
+0.9795221843003413
+0.6507936507936508
+birthPlace__person__country	rdf-schema#seeAlso_inv__country__country
+0.04930966469428008
+0.05668934240362812
+hometown__person__country	rdf-schema#seeAlso__country__country
+0.21428571428571427
+0.003401360544217687
+knownFor__person__country	rdf-schema#seeAlso__country__country
+0.6666666666666666
+0.0022675736961451248
+ethnicity__person__country	rdf-schema#seeAlso_inv__country__country
+0.3333333333333333
+0.0011337868480725624
+restingPlace__person__country
+0.13953488372093023
+0.006802721088435374
+residence__person__country	rdf-schema#seeAlso__country__country
+0.12121212121212122
+0.009070294784580499
+residence__person__country
+0.20437956204379562
+0.06349206349206349
+deathPlace__person__country
+0.07984031936127745
+0.09070294784580499
+birthPlace__person__country
+0.07521255722694571
+0.26077097505668934
+citizenship__person__country	rdf-schema#seeAlso__country__country
+0.07142857142857142
+0.0022675736961451248
+nationality__person__country	rdf-schema#seeAlso__country__country
+0.85
+0.11564625850340136
+deathPlace__person__country	rdf-schema#seeAlso__country__country
+0.07028753993610223
+0.024943310657596373
+restingPlace__person__country	rdf-schema#seeAlso__country__country
+0.08
+0.0022675736961451248
+ethnicity__person__country
+0.75
+0.003401360544217687
+birthPlace__person__country	rdf-schema#seeAlso__country__country
+0.0685785536159601
+0.06235827664399093
+ethnicity__person__country	rdf-schema#seeAlso__country__country
+0.5
+0.0011337868480725624
+nationality__journalist__ethnic_group	religion__ethnic_group__ethnic_group	religion_inv__ethnic_group__ethnic_group
+0.5
+0.0011337868480725624
+nationality__journalist__ethnic_group	related_inv__ethnic_group__ethnic_group	related__ethnic_group__ethnic_group
+0.1
+0.0011337868480725624
+nationality__journalist__ethnic_group
+1.0
+0.0011337868480725624
+nationality__person__island
+1.0
+0.0022675736961451248
+nationality__athlete__country
+1.0
+0.0011337868480725624
+deathPlace__athlete__country
+1.0
+0.0011337868480725624
+birthPlace__athlete__country
+0.5
+0.0011337868480725624
+parent_inv__person__person	nationality__person__ethnic_group
+0.2631578947368421
+0.005668934240362812
+ethnicity__person__ethnic_group	rdf-schema#seeAlso_inv__ethnic_group__ethnic_group
+0.18181818181818182
+0.0022675736961451248
+nationality__person__ethnic_group	related__ethnic_group__ethnic_group	language__ethnic_group__ethnic_group
+0.75
+0.003401360544217687
+ethnicity__person__ethnic_group	religion_inv__ethnic_group__ethnic_group
+0.06818181818181818
+0.003401360544217687
+award__person__person	nationality__person__ethnic_group
+1.0
+0.0011337868480725624
+relative__person__person	nationality__person__ethnic_group
+0.35714285714285715
+0.011337868480725623
+spouse_inv__person__person	nationality__person__ethnic_group
+0.07142857142857142
+0.0022675736961451248
+nationality__person__ethnic_group	related__ethnic_group__ethnic_group
+0.00411522633744856
+0.0011337868480725624
+citizenship__person__ethnic_group	related__ethnic_group__ethnic_group	related__ethnic_group__ethnic_group
+0.05
+0.0011337868480725624
+nationality__person__ethnic_group	related__ethnic_group__ethnic_group	related__ethnic_group__ethnic_group
+0.09571788413098237
+0.04308390022675737
+nationality__person__ethnic_group
+1.0
+0.3242630385487528
+parent__person__person	nationality__person__ethnic_group
+0.4
+0.009070294784580499
+ethnicity__person__ethnic_group
+0.005813953488372093
+0.0011337868480725624
+nationality__person__ethnic_group	related_inv__ethnic_group__ethnic_group
+0.0006176652254478073
+0.0011337868480725624
+religion__person__ethnic_group	religion_inv__ethnic_group__ethnic_group
+0.25
+0.0011337868480725624
+citizenship__person__ethnic_group
+0.25
+0.0045351473922902496
+nationality__person__ethnic_group	rdf-schema#seeAlso__ethnic_group__ethnic_group
+0.05555555555555555
+0.0045351473922902496
+nationality__person__ethnic_group	rdf-schema#seeAlso_inv__ethnic_group__ethnic_group
+0.0625
+0.0045351473922902496
+birthPlace__actor__country	rdf-schema#seeAlso_inv__country__country	rdf-schema#seeAlso__country__country
+0.21428571428571427
+0.003401360544217687
+nationality__actor__country	rdf-schema#seeAlso__country__country	rdf-schema#seeAlso__country__country
+0.36363636363636365
+0.0045351473922902496
+country__actor__country	rdf-schema#seeAlso__country__country	rdf-schema#seeAlso__country__country
+0.25
+0.0022675736961451248
+deathPlace__actor__country	rdf-schema#seeAlso__country__country	rdf-schema#seeAlso__country__country
+0.6666666666666666
+0.0022675736961451248
+birthPlace__actor__country	rdf-schema#seeAlso__country__country	rdf-schema#seeAlso__country__country
+0.3333333333333333
+0.003401360544217687
+nationality__actor__country	rdf-schema#seeAlso_inv__country__country
+0.3333333333333333
+0.0045351473922902496
+country__actor__country	rdf-schema#seeAlso_inv__country__country
+0.125
+0.0022675736961451248
+deathPlace__actor__country	rdf-schema#seeAlso_inv__country__country
+0.5
+0.0022675736961451248
+birthPlace__actor__country	rdf-schema#seeAlso_inv__country__country
+0.21428571428571427
+0.003401360544217687
+nationality__actor__country	rdf-schema#seeAlso__country__country
+0.36363636363636365
+0.0045351473922902496
+country__actor__country	rdf-schema#seeAlso__country__country
+0.25
+0.0022675736961451248
+deathPlace__actor__country	rdf-schema#seeAlso__country__country
+0.6666666666666666
+0.0022675736961451248
+birthPlace__actor__country	rdf-schema#seeAlso__country__country
+0.3333333333333333
+0.003401360544217687
+nationality__actor__country
+0.36363636363636365
+0.0045351473922902496
+country__actor__country
+0.11764705882352941
+0.0022675736961451248
+deathPlace__actor__country
+0.3333333333333333
+0.0022675736961451248
+birthPlace__actor__country
+0.16666666666666666
+0.003401360544217687
+nationality__office_holder__ethnic_group
+0.0030864197530864196
+0.0011337868480725624
+nationality__screen_writer__ethnic_group	religion__ethnic_group__ethnic_group	religion_inv__ethnic_group__ethnic_group
+0.5
+0.0011337868480725624
+nationality__screen_writer__ethnic_group	related_inv__ethnic_group__ethnic_group	related__ethnic_group__ethnic_group
+0.1
+0.0011337868480725624
+nationality__screen_writer__ethnic_group
+1.0
+0.0011337868480725624
+nationality__screen_writer__country
+0.3333333333333333
+0.0022675736961451248
+nationality__musical_artist__ethnic_group
+1.0
+0.0011337868480725624
+nationality__american_footbal_lplayer__country
+1.0
+0.0011337868480725624
+nationality__person__language	rdf-schema#seeAlso__language__language
+1.0
+0.0011337868480725624
+nationality__person__language	rdf-schema#seeAlso_inv__language__language	rdf-schema#seeAlso_inv__language__language
+1.0
+0.0011337868480725624
+nationality__person__language	rdf-schema#seeAlso_inv__language__language
+1.0
+0.0011337868480725624
+nationality__person__language
+1.0
+0.005668934240362812
+nationality__politician__country
+0.029411764705882353
+0.0011337868480725624
+deathPlace__politician__country
+0.02040816326530612
+0.0011337868480725624
+nationality__writer__country
+0.005434782608695652
+0.0011337868480725624
+country__writer__country
+0.03333333333333333
+0.0011337868480725624
+birthPlace__writer__country
+0.0026666666666666666
+0.0011337868480725624

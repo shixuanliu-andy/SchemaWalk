@@ -1,0 +1,6 @@
+isCitizenOf
+isLeaderOf
+isMarriedTo
+created
+directed
+isKnownFor
