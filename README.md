@@ -2,7 +2,7 @@
 
 This repository contains a PyTorch implementation of SchemaWalk, as described in the paper:
 
-Shixuan Liu, Changjun Fan, Kewei Cheng, Yunfei Wang, Peng Cui, Yizhou Sun, Zhong Liu. [Inductive meta-path learning for schema-complex heterogeneous information networks](https://ieeexplore.ieee.org/abstract/document/10613499/). IEEE Transactions on Pattern Analysis and Machine Intelligence (2024). 
+Shixuan Liu, [Changjun Fan](https://github.com/FFrankyy), [Kewei Cheng](https://github.com/vivian1993), Yunfei Wang, Peng Cui, Yizhou Sun, Zhong Liu. [Inductive meta-path learning for schema-complex heterogeneous information networks](https://ieeexplore.ieee.org/abstract/document/10613499/). IEEE Transactions on Pattern Analysis and Machine Intelligence (2024). 
 
 ![Overview](https://github.com/shixuanliu-andy/SchemaWalk/blob/main/paper/overview.jpg)
 
